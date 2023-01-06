@@ -100,42 +100,42 @@
 			<convert type="ValueRange">4,4</convert>
 			<convert type="ConditionalShowHide" />
 		</widget>
-		<widget source="session.TunerInfo" render="FixedLabel" position="0,158" size="13,18" text="A" foregroundColor="#708090" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
+		<widget source="session.TunerInfo" render="FixedLabel" position="0,158" size="13,18" text="A" foregroundColor="#B8C07C" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
 			<convert type="TunerInfo">TunerUseMask</convert>
 			<convert type="ValueBitTest">1</convert>
 			<convert type="ConditionalShowHide" />
 		</widget>
-		<widget source="session.TunerInfo" render="FixedLabel" position="12,158" size="13,18" text="B" foregroundColor="#708090" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
+		<widget source="session.TunerInfo" render="FixedLabel" position="12,158" size="13,18" text="B" foregroundColor="#B8C07C" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
 			<convert type="TunerInfo">TunerUseMask</convert>
 			<convert type="ValueBitTest">2</convert>
 			<convert type="ConditionalShowHide" />
 		</widget>
-		<widget source="session.TunerInfo" render="FixedLabel" position="24,158" size="13,18" text="C" foregroundColor="#708090" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
+		<widget source="session.TunerInfo" render="FixedLabel" position="24,158" size="13,18" text="C" foregroundColor="#B8C07C" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
 			<convert type="TunerInfo">TunerUseMask</convert>
 			<convert type="ValueBitTest">4</convert>
 			<convert type="ConditionalShowHide" />
 		</widget>
-		<widget source="session.TunerInfo" render="FixedLabel" position="36,158" size="13,18" text="D" foregroundColor="#708090" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
+		<widget source="session.TunerInfo" render="FixedLabel" position="36,158" size="13,18" text="D" foregroundColor="#B8C07C" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
 			<convert type="TunerInfo">TunerUseMask</convert>
 			<convert type="ValueBitTest">8</convert>
 			<convert type="ConditionalShowHide" />
 		</widget>
-		<widget source="session.TunerInfo" render="FixedLabel" position="0,146" size="13,18" text="E" foregroundColor="#708090" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
+		<widget source="session.TunerInfo" render="FixedLabel" position="0,146" size="13,18" text="E" foregroundColor="#B8C07C" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
 			<convert type="TunerInfo">TunerUseMask</convert>
 			<convert type="ValueBitTest">16</convert>
 			<convert type="ConditionalShowHide" />
 		</widget>
-		<widget source="session.TunerInfo" render="FixedLabel" position="12,146" size="13,18" text="F" foregroundColor="#708090" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
+		<widget source="session.TunerInfo" render="FixedLabel" position="12,146" size="13,18" text="F" foregroundColor="#B8C07C" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
 			<convert type="TunerInfo">TunerUseMask</convert>
 			<convert type="ValueBitTest">32</convert>
 			<convert type="ConditionalShowHide" />
 		</widget>
-		<widget source="session.TunerInfo" render="FixedLabel" position="24,146" size="13,18" text="G" foregroundColor="#708090" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
+		<widget source="session.TunerInfo" render="FixedLabel" position="24,146" size="13,18" text="G" foregroundColor="#B8C07C" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
 			<convert type="TunerInfo">TunerUseMask</convert>
 			<convert type="ValueBitTest">64</convert>
 			<convert type="ConditionalShowHide" />
 		</widget>
-		<widget source="session.TunerInfo" render="FixedLabel" position="36,146" size="13,18" text="H" foregroundColor="#708090" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
+		<widget source="session.TunerInfo" render="FixedLabel" position="36,146" size="13,18" text="H" foregroundColor="#B8C07C" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
 			<convert type="TunerInfo">TunerUseMask</convert>
 			<convert type="ValueBitTest">128</convert>
 			<convert type="ConditionalShowHide" />
