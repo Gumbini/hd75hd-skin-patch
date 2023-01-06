@@ -100,6 +100,21 @@
 			<convert type="ValueRange">4,4</convert>
 			<convert type="ConditionalShowHide" />
 		</widget>
+		<widget source="session.FrontendInfo" render="FixedLabel" position="12,146" size="13,18" text="F" foregroundColor="#04B404" font="FdLcD;13" zPosition="1" transparent="1" halign="center" >
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">5,5</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.FrontendInfo" render="FixedLabel" position="24,146" size="13,18" text="G" foregroundColor="#04B404" font="FdLcD;13" zPosition="1" transparent="1" halign="center" >
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">6,6</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
+		<widget source="session.FrontendInfo" render="FixedLabel" position="36,146" size="13,18" text="H" foregroundColor="#04B404" font="FdLcD;13" zPosition="1" transparent="1" halign="center" >
+			<convert type="FrontendInfo">NUMBER</convert>
+			<convert type="ValueRange">7,7</convert>
+			<convert type="ConditionalShowHide" />
+		</widget>
 		<widget source="session.TunerInfo" render="FixedLabel" position="0,158" size="13,18" text="A" foregroundColor="#B8C07C" font="FdLcD;13" zPosition="0" transparent="1" halign="center" >
 			<convert type="TunerInfo">TunerUseMask</convert>
 			<convert type="ValueBitTest">1</convert>
